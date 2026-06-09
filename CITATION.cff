@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: "Woszczyk"
     given-names: "Artur Arkadiusz"
-repository-code: "https://github.com/<your-username>/calculegal-legal-damage-engine"
+repository-code: "https://github.com/arturwoszczyk/calculegal-legal-damage-engine"
 url: "https://www.calculegal.it/"
 abstract: "Public methodology, documentation, fictional benchmarks and privacy-preserving design principles for deterministic legal empowerment calculators in the Italian LegalTech context."
 keywords:
