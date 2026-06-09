@@ -1,0 +1,30 @@
+# Notice
+
+Copyright © 2026 Artur Arkadiusz Woszczyk.
+
+CalcuLegal is a legal-tech and legal empowerment project created and maintained by Artur Arkadiusz Woszczyk.
+
+This repository documents selected public methodology, educational concepts, fictional benchmarks and privacy-preserving design principles behind CalcuLegal.
+
+## Excluded materials
+
+The following materials are not part of this public repository and are not licensed for reuse:
+
+- the commercial CalcuLegal production engine;
+- production PHP, JavaScript or backend logic;
+- internal scoring weights and thresholds;
+- complete questionnaire flows;
+- partner-routing systems;
+- private datasets;
+- real user data;
+- commercial UX and lead-generation copy;
+- operational cryptographic code;
+- brand assets, logos and visual identity.
+
+## Trademark and brand notice
+
+The CalcuLegal name, logo, domain, product naming system, visual identity and distinctive brand elements are reserved. See `TRADEMARK.md`.
+
+## No endorsement
+
+Use, citation or adaptation of this repository does not imply endorsement, partnership, certification, affiliation or professional validation by CalcuLegal.

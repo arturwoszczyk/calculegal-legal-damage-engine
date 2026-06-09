@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "fictional": true,
+    "not_legal_advice": true
+  },
+  "cases": [
+    {
+      "id": "BIO-001",
+      "age": 35,
+      "permanent_impairment": 5,
+      "temporary_days": {
+        "100": 5,
+        "50": 20
+      },
+      "notes": "Didactic case only."
+    },
+    {
+      "id": "BIO-002",
+      "age": 62,
+      "permanent_impairment": 12,
+      "temporary_days": {
+        "75": 10,
+        "50": 30,
+        "25": 60
+      },
+      "notes": "Didactic case only."
+    }
+  ]
+}

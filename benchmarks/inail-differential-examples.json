@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "fictional": true,
+    "not_legal_advice": true
+  },
+  "cases": [
+    {
+      "id": "INAIL-DIFF-001",
+      "civil_damage": 50000,
+      "inail_indemnity_homogeneous": 30000,
+      "expected_differential": 20000
+    },
+    {
+      "id": "INAIL-DIFF-002",
+      "civil_damage": 25000,
+      "inail_indemnity_homogeneous": 30000,
+      "expected_differential": 0,
+      "note": "Simplified example."
+    }
+  ]
+}

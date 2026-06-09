@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "name": "Balthazard didactic tests",
+    "scope": "fictional simplified benchmark cases",
+    "not_production_engine": true,
+    "legal_advice": false
+  },
+  "cases": [
+    {
+      "id": "BALTHAZARD-001",
+      "description": "Two impairments, 20% and 10%",
+      "input_percentages": [
+        20,
+        10
+      ],
+      "expected_combined_percentage": 28,
+      "calculation": "20 + 10 * (100 - 20) / 100"
+    },
+    {
+      "id": "BALTHAZARD-002",
+      "description": "Three impairments, simplified descending sequence",
+      "input_percentages": [
+        30,
+        15,
+        10
+      ],
+      "expected_combined_percentage_approx": 46,
+      "note": "Rounding may vary depending on implementation."
+    },
+    {
+      "id": "BALTHAZARD-003",
+      "description": "Low impairments",
+      "input_percentages": [
+        8,
+        5
+      ],
+      "expected_combined_percentage_approx": 13
+    }
+  ]
+}

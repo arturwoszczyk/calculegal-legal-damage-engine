@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "fictional": true,
+    "not_legal_advice": true
+  },
+  "cases": [
+    {
+      "id": "REP-001",
+      "channel": "public social post",
+      "evidence": "screenshot and URL",
+      "risk_profile": "professional review recommended"
+    },
+    {
+      "id": "REP-002",
+      "channel": "private chat",
+      "evidence": "partial screenshot",
+      "risk_profile": "evidence preservation recommended"
+    }
+  ]
+}
